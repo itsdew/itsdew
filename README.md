@@ -28,7 +28,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🌐, Softw
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/itsdew?tab=repositories)
 - 🎨 &nbsp; Checkout my **Vector Arts** (SVGs) on my profile [here](https://instagram.com/dew_code_)
 - 💬 &nbsp; Ask anything related to programming or tech stuff, I'll be happy to help;
-- 📫 &nbsp; Feel free to shoot me an email on [devendra123world@gmail.com](mailto:devendra123world@gmail.com)
+- 📫 &nbsp; Feel free to shoot me an email at [devendra123world@gmail.com](mailto:devendra123world@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1w0a0dba46ph1R_dAKOkRTJKrulSuOdcn/view?usp=sharing)
 - 📚 &nbsp; When I am free, I surf through **YouTube**. you can checkout my uniquely made video using **Google script API** [here](https://www.youtube.com/watch?v=OrydNeJQMHk)
 
