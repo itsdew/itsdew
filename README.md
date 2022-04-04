@@ -14,7 +14,7 @@
 
 
 
-I am a versatilist and easily adapt to different hats (Web Developer 🌐, ML Engineer 🤖 or a Software developer 💻) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Web Developer 🌐, Software developer 💻 or a ML Engineer(Basic) 🤖) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
