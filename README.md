@@ -76,9 +76,9 @@ I am a versatilist and easily adapt to different hats (Web Developer 🌐, Softw
 
 <br>
     
-<h2 align="center"> Scrat is looking at its Love❤️ (Top Left)</h2>
 
-![](https://github.com/itsdew/Live-in-Action/blob/main/Squirrel.png)
+
+
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/itsdew/Live-in-Action/blob/main/Actions/github-comit-snake-eater.svg)
