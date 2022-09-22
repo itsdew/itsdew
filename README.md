@@ -107,7 +107,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🌐, Softw
 
 <p align="center">
     <a href="https://github.com/itsdew?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/itsdew" target="_blank"><img alt="itsdew" src="https://badges.pufler.dev/visits/itsdew/itsdew?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">
     <a href="https://github.com/itsdew/itsdew" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/itsdew/leetcode?label=profile%20updated&style=flat-square"></a>
 </p>
 
